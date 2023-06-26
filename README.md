@@ -1,5 +1,6 @@
 # Python-Insurance-Claims-Case-Study
 **Python-Insurance-Claims-Case-Study**
+
 **Objective:**
 The objective of this case study is to perform exploratory data analysis and hypothesis testing on insurance claim data to gain insights into patterns and trends in insurance claims. The goal is to extract meaningful information from the data and provide actionable insights that can be used to make data-driven decisions.
 
